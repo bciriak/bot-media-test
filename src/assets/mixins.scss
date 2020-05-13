@@ -1,0 +1,5 @@
+@mixin breakpoint48 {
+    @media screen and (max-width: 48em) {
+        background-color: red;
+    }
+}
